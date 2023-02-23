@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+-------------------------------------------------------------------
+以下、メモ
+
+## routesについて
+-  routerにresourcesを宣言するだけで、コントローラのindex、show、new、edit、create、update、destroyアクションを個別に宣言しなくても1行で宣言が完了します。
+
+## コマンドについて
+- rails g controller 〇〇
+- rails g scaffold 〇〇
+⇨　結構使わない（かも）ファイルもできる印象、どっち使うことが多い？
+
